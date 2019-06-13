@@ -1,20 +1,39 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+date: 2019-02-08T13:25:23.572Z
+description: >-
+  Install the add-on for bulk email verification directly on Google Sheets,
+  where you have contacts collected
+image: /img/social.jpg
+title: Email Verification directly on Google Sheets
 ---
+Email Verification Add-on prevents bounced emails and low-quality contacts because:
 
+* It provides a real-time validation lookup directly on Google Sheets. You receive fresh data upon request and don’t need to export/import contacts for the verification process.
+* It shows you non-deliverable and misspelled addresses.
+
+![Email Verification Add-on V4](/img/v4.png "Email Verification Add-on V4")
+
+#### Pricing
+
+With a free account, you get 50 free verifications at the beginning and 100 more by applying a coupon code. If you need more, simply buy credits. It is a one-time payment without the expiration date for the purchased credits.
+
+* 2,000 verifications for $15;
+* 5,000 verifications for $28;
+* 10,000 verifications for $42;
+* 25,000 verifications for $85;
+* 50,000 verifications for $129;
+* 100,000 verifications for $199.
+
+#### Common questions
+
+**How do you validate the data?**
+
+We have built a service to carry out validation at different levels: an address format, information about a domain, its mail server, and a response from that mail server. The add-on is connected to the service via API.
+
+**How can I be sure that you will not steal my data?**
+
+For security reasons and in order to protect your data, we do not collect (or share data) from your validation lookups on our servers. We don’t even have a database to store data.
+
+**What column shows me that my email will not be bounced?**
+
+The «Is deliverable?» column is what you need. It shows that mail server accepted this email address.
