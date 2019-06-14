@@ -12,7 +12,7 @@ Phone Validation Add-on prevents bounced phone calls because these main features
 * If the phone number is valid, you will get the city information.
 * It shows you not valid phone numbers.
 
-![Email Verification Add-on V4](/img/v4.png "Email Verification Add-on V4")
+![Phone Validation Data](/img/validation.png "Phone Validation Data")
 
 #### Pricing
 
