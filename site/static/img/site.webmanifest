@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Phone Validation",
+    "short_name": "Phone Validation",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
