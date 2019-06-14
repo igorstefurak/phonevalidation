@@ -1,12 +1,12 @@
 ---
 title: Privacy Policy
-date: 2019-01-21T20:09:19.044Z
-description: Privacy Policy for Social Share Counter Add-on
+date: 2019-06-14T19:09:19.044Z
+description: Privacy Policy for Phone Validation Add-on
 image: /img/social.jpg
 ---
-*Last updated: January 22, 2019*
+_Last updated: June 14, 2019_
 
-Here you will find information describing the data collected by our website (the «Website») and via our Google Sheets Add-on «Social Share Counter» (the «Add-on»), hereinafter called the «Service».
+Here you will find information describing the data collected by our website (the «Website») and via our Google Sheets Add-on «Phone Validation» (the «Add-on»), hereinafter called the «Service».
 
 This Privacy Policy governs personal information we collect from customers, users and online visitors («you» or «your») in connection with your use of the Service, applications and services (including support and education), where we post or link to this Privacy Policy, as well as information we automatically collect from your online visits (e.g. data collected via cookies). For the purposes of this Privacy Policy, «personal information» means any information that, by itself, can identify you or can be combined with other information to identify you.
 
@@ -58,4 +58,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 #### **Contact**
 
-If you have any questions, concerns or comments about this Privacy Statement or our privacy practices, please contact us via email at [ssc@opryshok.com](mailto:ssc@opryshok.com) with the words «Privacy Policy» in the subject line.
+If you have any questions, concerns or comments about this Privacy Statement or our privacy practices, please contact us via email at <mailto:pv@opryshok.com> with the words «Privacy Policy» in the subject line.
