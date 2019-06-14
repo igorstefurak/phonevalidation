@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2019-06-14T19:09:19.044Z
+date: 2019-06-13T19:09:19.044Z
 description: Privacy Policy for Phone Validation Add-on
 image: /img/social.jpg
 ---
