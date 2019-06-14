@@ -1,32 +1,30 @@
 ---
 title: Terms of Service
-description: Terms of Service for Social Share Counter Add-on
+description: Terms of Service for Phone Validation Add-on
 image: /img/social.jpg
 ---
-_Last updated: January 31, 2019_
+_Last updated: June 14, 2019_
 
-These terms and conditions outline the rules and regulations for the use of Social Share Counter Add-on’s Website and Social Share Counter Add-on Service.
+These terms and conditions outline the rules and regulations for the use of Phone Validation Add-on’s Website and Phone Validation Add-on Service.
 
-By accessing this website or service we assume you accept these terms and conditions in full. Do not continue to use Social Share Counter Add-on’s website if you do not accept all of the terms and conditions stated on this page.
+By accessing this website or service we assume you accept these terms and conditions in full. Do not continue to use Phone Validation Add-on’s website if you do not accept all of the terms and conditions stated on this page.
 
-The following terminology applies to these Terms of Service, Privacy Policy  and any or all Agreements: «Client», «You» and «Your» refers to you, the person accessing this website or service and accepting the Company’s terms and conditions. «The Compan»y, «Ourselves», «We», «Our» and «Us», refers to our Company. «Party», «Parties», or «Us», refers to both the Client and ourselves, or either the Client or ourselves. 
+The following terminology applies to these Terms of Service, Privacy Policy  and any or all Agreements: «Client», «You» and «Your» refers to you, the person accessing this website or service and accepting the Company’s terms and conditions. «The Company», «Ourselves», «We», «Our» and «Us», refers to our Company. «Party», «Parties», or «Us», refers to both the Client and ourselves, or either the Client or ourselves. 
 
 All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing law of Ukraine. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 #### **Cookies**
 
-We employ the use of cookies. By using Social Share Counter Add-on’s website or service you consent to the use of cookies in accordance with Social Share Counter Add-on’s privacy policy.
-
+We employ the use of cookies. By using Phone Validation Add-on’s website or service you consent to the use of cookies in accordance with Phone Validation Add-on’s privacy policy.
 Most of the modern day interactive web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate / advertising partners may also use cookies.
 
 #### **Payment**
 
-Optional paid services, such as extra checks, are available on the Services. By clicking «Upgrade my account» button you agree to pay Social Share Counter Add-on the fees indicated for that service. Payments will be charged on the day you upgrade and will cover the use of that service. Upgrade fees are not refundable.
+Optional paid services, such as extra checks, are available on the Services. By clicking «Buy credits» button you agree to pay Phone Validation Add-on the fees indicated for that service. Payments will be charged on the day you upgrade and will cover the use of that service. Upgrade fees are not refundable.
 
 #### **License**
 
-Unless otherwise stated, Social Share Counter Add-on and/or it’s licensors own the intellectual property rights for all material on ESocial Share Counter Add-on's website and service. All intellectual property rights are reserved. You may view and/or print pages from the website for your own personal use subject to restrictions set in these terms and conditions.
-
+Unless otherwise stated, Phone Validation Add-on and/or it’s licensors own the intellectual property rights for all material on Phone Validation Add-on's website and service. All intellectual property rights are reserved. You may view and/or print pages from the website for your own personal use subject to restrictions set in these terms and conditions.
 You must not:
 
 * Republish materials from the website or service.
@@ -55,6 +53,6 @@ The company reserves the right, at its sole discretion, to modify or replace any
 
 #### **Our address**
 
-Social Share Counter Add-on\
+Phone Validation Add-on\
 26 Khoryva str, Kharkiv\
 06005, Ukraine
